@@ -39,6 +39,9 @@ The system shall allow registered users to securely log in and log out.
 - FR-003 — Authentication
 The system shall restrict access to private user data to authenticated users.
 
+- FR-004 — Authenticator
+Protect the account by using a security authenticator.
+
 ### 3.2 Photo Upload and Storage
 - FR-010 — Photo Upload
 The system shall allow authenticated users to upload photos.
